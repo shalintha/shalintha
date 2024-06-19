@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shalintha" alt="shalintha" /></a> </p>
 
-- 🌱 I’m currently learning **Kubernetes, Go-lang, Rust**
+- 🌱 I’m currently learning **Kubernetes, Go-lang and Rust**
 
-- 💬 Ask me about **Android, Java, Linux**
+- 💬 Ask me anything about **Android, Java, Linux**
 
 - 📫 How to reach me **contact@shalintha.me**
 
